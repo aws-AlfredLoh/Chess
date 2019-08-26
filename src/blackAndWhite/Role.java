@@ -4,7 +4,7 @@ public class Role {
 	private int[][] board = new int[10][10];
 	
 	//git test -2
-	//test branch
+	//test branch next
 	
 	public Role() {
 		Random ran = new Random();
