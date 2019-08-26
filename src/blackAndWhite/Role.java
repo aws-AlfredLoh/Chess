@@ -573,6 +573,8 @@ public class Role {
 		System.out.println("Have fun");
 	}
 	
+	//funny
+	//fun
 	public static void main(String[] args) {
 		Role role = new Role();
 		int[][] Bd = new int[10][10];
@@ -597,6 +599,7 @@ public class Role {
 				System.out.print(Bd[i][j]);
 			}
 			System.out.println();
+			//HI 
 		}
 		
 	}		
