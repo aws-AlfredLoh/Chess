@@ -569,7 +569,7 @@ public class Role {
 		System.out.println("§_©ñ");
 	}
 	
-	
+	//fun
 	public static void main(String[] args) {
 		Role role = new Role();
 		int[][] Bd = new int[10][10];
