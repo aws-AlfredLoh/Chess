@@ -589,6 +589,7 @@ public class Role {
 				System.out.print(Bd[i][j]);
 			}
 			System.out.println();
+			//HI 
 		}
 		
 	}		
