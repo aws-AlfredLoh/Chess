@@ -565,6 +565,11 @@ public class Role {
 		board[x][y] = type;
 	}
 	
+	public void justForFun() {
+		System.out.println("§_©ñ");
+	}
+	
+	
 	public static void main(String[] args) {
 		Role role = new Role();
 		int[][] Bd = new int[10][10];
