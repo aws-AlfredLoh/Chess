@@ -568,10 +568,15 @@ public class Role {
 	}
 	
 	public void justForFun() {
-		System.out.println("�_��");
+		System.out.println("for fun"");
 	}
 	
+	public void havaFun() {
+		System.out.println("Have fun");
+	}
 	
+	//funny
+	//fun
 	public static void main(String[] args) {
 		Role role = new Role();
 		int[][] Bd = new int[10][10];
