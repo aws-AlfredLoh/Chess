@@ -566,7 +566,7 @@ public class Role {
 	}
 	
 	public void justForFun() {
-		System.out.println("§_©ñ");
+		System.out.println("ï¿½_ï¿½ï¿½");
 	}
 	
 	
@@ -595,6 +595,8 @@ public class Role {
 			}
 			System.out.println();
 			//HI 
+			//FUN
+
 		}
 		
 	}		
