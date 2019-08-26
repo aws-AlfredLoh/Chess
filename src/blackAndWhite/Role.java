@@ -3,6 +3,8 @@ import java.util.Random;
 public class Role {
 	private int[][] board = new int[10][10];
 	
+	//git test
+	
 	public Role() {
 		Random ran = new Random();
 		for(int i = 0 ; i < 7 ;)
@@ -566,7 +568,7 @@ public class Role {
 	}
 	
 	public void justForFun() {
-		System.out.println("§_©ñ");
+		System.out.println("ï¿½_ï¿½ï¿½");
 	}
 	
 	
