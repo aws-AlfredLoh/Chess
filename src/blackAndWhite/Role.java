@@ -569,9 +569,9 @@ public class Role {
 	}
 	
 	public void justForFun() {
-		System.out.println("�_��");
+		System.out.println("FU");
 	}
-	
+	//FUNNNNNNNNNNNNNNNNNNNNNN
 	
 	public static void main(String[] args) {
 		Role role = new Role();
