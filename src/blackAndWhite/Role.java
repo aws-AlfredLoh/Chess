@@ -3,7 +3,7 @@ import java.util.Random;
 public class Role {
 	private int[][] board = new int[10][10];
 	
-	//git test
+	//git test -2
 	
 	public Role() {
 		Random ran = new Random();
